@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mcgqu.github.io/ITW/sitemap.ITW.gz
